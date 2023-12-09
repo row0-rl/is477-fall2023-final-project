@@ -1,4 +1,5 @@
 # is477-fall2023-final-project
+
 [![DOI](https://zenodo.org/badge/727417996.svg)](https://zenodo.org/doi/10.5281/zenodo.10315640)
 ## Overview
 This is the final project of IS 477 Data Management, Curation & Reproducibility in Fall 2023 by Shiyuan Liu. This is  This project uses the [Mushroom](https://archive.ics.uci.edu/dataset/73/mushroom) dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu), which records data of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family. The dataset contains useful features about the mushrooms such as appearances, odor, population, habitat etc. This project downloads and validates the dataset, generates a profile of the dataset, and does a simple data visualization of the frequency of mushroom odor types.
