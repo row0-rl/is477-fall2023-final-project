@@ -1,0 +1,30 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0001-6342-0075",
+            "affiliation": "University of Illinois Urbana-Champaign",
+            "name": "Liu, Shiyuan"
+        }
+    ],
+
+    "description": "This is the final project of IS 477 Data Management, Curation & Reproducibility in Fall 2023 by Shiyuan Liu.",
+
+    "access_right": "open",
+
+    "upload_type": "software",
+
+    "license": "MIT",
+
+    "title": "Mushroom Dataset Analysis (IS477)",
+
+    "keywords": "mushroom, data",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "https://github.com/row0-rl/is477-fall2023-final-project",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ]
+}
